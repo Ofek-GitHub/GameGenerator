@@ -5,7 +5,7 @@ def get_number_of_teams():
         if num_teams >= 2 and num_teams % 2 == 0:
             break
 
-        print("The minimum number of teams is 2 and it has to be an even number, try again.")
+        print("The minimum number of teams is 2 and it has to be an even, try again.")
 
     return num_teams
 
